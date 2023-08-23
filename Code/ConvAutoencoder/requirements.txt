@@ -1,7 +1,0 @@
-torch
-numpy
-torchvision
-torchsummary
-matplotlib
-pytorch_msssim
-jupyter
